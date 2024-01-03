@@ -15,7 +15,10 @@
 
 {% block content %}
 <main>
+  <img src="{{ get_url(path='background.jpg') }}" style="width: 500px; display: block; margin: 30px auto 30px auto;">
+
   {% block maintext %}
+  <div class="content" style="border-top: 0px">
   <p>The Bravo Awards are a celebration of the hunts, puzzles, and people from the puzzle hunt community.</p>
   
   <p>The Third Annual Bravo Awards, which look back over the period between January 12th and December 23rd, 2023, 
@@ -28,7 +31,7 @@
 
   <p>The Third Annual Bravo Awards were organised by Thomas Gordon, Eugene C, and Soni (TalesFromTim), with help from 
   Justin Ladia and Liam Thomas.</p>
-
+  </div>
   {% endblock maintext %}
 </main>
 {% endblock content %}
