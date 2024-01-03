@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block head %}
+<meta name="description" content="My stuff.">
+<style>
+  body {
+    display: block;
+    height: 100%;
+  }
+  body {
+    line-height: 1.5;
+  }
+  .container {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+</style>
+{% endblock content %}
+
+{% block content %}
+<header>
+  
+</header>
+<main>
+  {% block maintext %}
+  <div class="container">
+    <p itemprop="description">Hello! I'm Thomas. I'm generally known online as MetaTerminal.</p>
+    <p>This is a site for my personal projects and work.</p>
+  </div>
+  {% endblock maintext %}
+</main>
+{% endblock content %}
