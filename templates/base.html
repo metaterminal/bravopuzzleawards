@@ -9,6 +9,9 @@
     <link itemprop="url" href="{{ config.base_url }}">
     <link rel="canonical" href="{{ config.base_url }}">
     <link rel="stylesheet" href="{{ get_url(path='base.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono&display=swap" rel="stylesheet">
     {% block head %}{% endblock %}
     <style>
         body {
@@ -20,14 +23,13 @@
   <body>
     <nav>
       <ul>
-        hello
+        <li><a href="{{ get_url(path='') }}">Home</a></li>
+        <li><a href="{{ get_url(path='@/finalists.md') }}">Finalists</a></li>
+        <li><a href="{{ get_url(path='@/archive/_index.md') }}">Archive</a></li>
       </ul>
     </nav>
-    <header>
-      {% block header %} {% endblock %}
-    </header>
     <main>
-      {% block content %} {% endblock %}
+        {% block content %} {% endblock %}
     </main>
     <footer>
     </footer>
