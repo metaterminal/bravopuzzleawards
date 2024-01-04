@@ -18,19 +18,26 @@
   <img src="{{ get_url(path='background.jpg') }}" style="width: 500px; display: block; margin: 30px auto 0px auto;">
 
   {% block maintext %}
-  <div class="content" style="border-top: 0px">
+  <div class="content" style="margin-top: 10px;">
   <p>The Bravo Awards are a celebration of the hunts, puzzles, and people from the puzzle hunt community.</p>
   
-  <p>The Third Annual Bravo Awards, which look back over the period between January 12th and December 23rd, 2023, 
-  is currently in its finalist stage. If you'd like to vote on which finalists should receive awards for their 
-  categories, you can do so here:</p>
+  <p>The Third Annual Bravo Awards, which looks back over 2023, is currently in its finalist stage. If you'd 
+    like to vote on which finalists should receive awards for their categories, you can do so here:</p>
 
-  <p>LINK</p>
+  <div class="width-hack">
+  <a href="https://forms.gle/yBCyYuaFX1e4uyZw9">
+    <div class="vote-button">
+      <p style="text-align: center;">Vote now!</p>
+    </div>
+  </a>
+  </div>
 
-  <p>The awards will be announced in a Twitch livestream on DATE, Eastern Time.</p>
+  <p>The above voting form will close on <b>Tuesday, January 9th, 11:59PM Eastern Time</b>.
+    The awards will then be announced in a <a href="https://www.twitch.tv/bravoawards">Twitch livestream</a> on 
+    <b>Wednesday, January 10th, 9PM Eastern Time</b>.</p>
 
-  <p>The Third Annual Bravo Awards were organised by Thomas Gordon, Eugene C, and Soni (TalesFromTim), with help from 
-  Justin Ladia and Liam Thomas.</p>
+  <p>The Third Annual Bravo Awards were organised by Thomas Gordon (MetaTerminal), Eugene C, and Soni (TalesFromTim), 
+    with help from Justin Ladia and Liam Thomas (junkmail).</p>
   </div>
   {% endblock maintext %}
 </main>

@@ -5,12 +5,15 @@ template = "finalists.html"
 
 Congratulations to the finalists of the Third Annual Bravo Awards!
 
+Additionally, if you'd like to view every puzzle and hunt was nominated at least once (but may not have necessarily 
+been selected as a finalist), you can view the full list of <a href="https://docs.google.com/spreadsheets/d/1AGR6tAAm-SvV-bBNeGKY7Q7Llx6u3iuvd5G9LhopjE4/edit#gid=0">200+ puzzles and 20+ hunts here</a>.
+
 ### Hunts
 
 | A | Small Hunt of the Year | Authors |
 |---|---|---|
 | 1 | [CMU Spring Hunt 23 - Prehistory](https://puzzlehunt.club.cc.cmu.edu/hunt/22/) | Puzzle Hunt CMU |
-| 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen, Deusovi |
+| 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen, Deusovi, Stratton Vakirtzis |
 | 3 | [First Day on the Job](https://cutemagestower.com/first-day/) | Jen McTeague |
 | 4 | [Grand Hunt Digital 23](https://web.archive.org/web/20230928001609/https://grandhuntdigital.com/puzzles) | /r/ConstructedAdventures |
 | 5 | [P.I. Hunt 9 - R.T.3 SEARCH](https://jacoblance.wordpress.com/2023/03/14/r-t-3-search/) | Jack Lance |
@@ -63,7 +66,7 @@ Congratulations to the finalists of the Third Annual Bravo Awards!
 | G | Most Innovative Structure | Authors |
 |---|---|---|
 | 1 | [CCBC13 - Cipher & Code Breaking Competition 13](https://puzzle.cipherpuzzles.com/main) | simplicissimus |
-| 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen |
+| 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen, Deusovi, Stratton Vakirtzis |
 | 3 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCosmiCave](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
 | 4 | [MITMH23 - MIT Mystery Hunt 23 - Puzzle Factory](https://puzzles.mit.edu/2023/) | teammate |
 | 5 | [P.I. Hunt 9 - R.T.3 SEARCH](https://jacoblance.wordpress.com/2023/03/14/r-t-3-search/) | Jack Lance |
@@ -117,24 +120,20 @@ Congratulations to the finalists of the Third Annual Bravo Awards!
 | 1 | [Exhibit of Colors (MITMH23)](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/exhibit-of-colors) | Mona Wang, Tracey Lin |
 | 2 | [Find Oren (BPH23)](https://www.brownpuzzlehunt.com/puzzle/find-oren) | Ian Rider, Oren Kohavi |
 | 3 | [Flexibility (Shardhunt)](https://shardhunt.com/puzzle/flexibility) | Thomas Gordon |
-| 4 | [QR Code Sequence (Pi Hunt 9 / RT3)](https://jacklance.github.io/rt3) | Jack Lance |
+| 4 | [QR Code Sequence (Pi Hunt 9 / RT3)](https://jacklance.github.io/rt3) <a href="#footnote-1"><i>(see note to view)</i></a> | Jack Lance |
 | 5 | [Subterranean Secrets (MITMH23)](https://puzzles.mit.edu/2023/puzzlefactory.place/basement/subterranean-secrets) | Catherine Wu, Katie Dunn |
 | 6 | [Weaver (MITMH23)](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/weaver) | Alex Irpan, Brian Shimanuki, Tracey Lin |
 | 7 | [Word Wide Web (BAPHL22)](http://22.baphl.org/pdfs/101_G_Beaver_WordWideWeb.pdf) | Jen McTeague |
-
-NOTE: to access the QR Code Sequence, click the link, press L, then type in 11111111111111111111111011111111111<br>111111111111111111111111111111111101111101011101010111111111111111111111111111110111111111111111011. The QR Code Sequence is the set of 6 dots arranged vertically in the bottom left.
 
 | M | Best Interactive Puzzle | Authors |
 |---|---|---|
 | 1 | [beeBay Fulfillment Center (GPH23)](https://2023.galacticpuzzlehunt.com/game/prep/beebay_fulfillment_center_1) | Violet Xiao and Anderson Wang |
 | 2 | [Collage (MITMH23)](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/collage) | Alex Irpan, Brian Shimanuki, and Jacqui Fashimpaur |
-| 3 | [Final Keypad Puzzle (Pi Hunt 9 / RT3)](https://jacklance.github.io/rt3) | Jack Lance |
+| 3 | [Final Keypad Puzzle (Pi Hunt 9 / RT3)](https://jacklance.github.io/rt3) <a href="#footnote-2"><i>(see note to view)</i></a> | Jack Lance |
 | 4 | [Keep Out (Huntinality 3)](https://www.huntinality.com/puzzles/keep_out) | Darren Lee |
 | 5 | [Pushing the Rules (Shardhunt)](https://shardhunt.com/puzzle/pushing-the-rules) | Thomas Gordon |
 | 6 | [Quandle (MITMH23)](https://puzzles.mit.edu/2023/puzzlefactory.place/office/quandle) | Alex Irpan |
 | 7 | [The Lernaean Hydra (MSPH23)](https://puzzle.university/puzzle/lernaeanhydra.html) | Justin Melvin |
-
-NOTE: to access the Final Keypad Puzzle, click the link, press L, then type in 11111111111111111111111011111111111<br>111111111111111111111111111111111101111101011101010111111111111111111111111111110111111111111111011. The QR Code Sequence is the rightmost puzzle node.
 
 FIXME Non-English
 
@@ -238,3 +237,9 @@ FIXME Non-English
 | 8 | Will Shortz | [For curating New York Times crosswords for decades.](https://en.wikipedia.org/wiki/Will_Shortz) |
 
 Due to exceptional circumstances, the Lifetime Achievement Award will be awarded by judges instead of voted on by the community.
+
+***
+
+<p id="footnote-1"><i>(To access the QR Code Sequence, click the link, press L, then type in 11111111111111111111111011111111111<br>111111111111111111111111111111111101111101011101010111111111111111111111111111110111111111111111011. The QR Code Sequence is the set of 6 dots arranged vertically in the bottom left.)</i></p>
+
+<p id="footnote-2"><i>(To access the Final Keypad Puzzle, click the link, press L, then type in 11111111111111111111111011111111111<br>111111111111111111111111111111111101111101011101010111111111111111111111111111110111111111111111011. The QR Code Sequence is the rightmost puzzle node.)</i></p>

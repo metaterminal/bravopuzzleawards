@@ -5,4 +5,10 @@ sort_by = "date"
 page_template = "archive-page.html"
 +++
 
-hello
+### The Second Annual Bravo Awards 
+
+[Link to Puzzle Wiki results](https://www.puzzles.wiki/wiki/2nd_Bravo_Awards).
+
+### The First Annual Bravo Awards
+
+[Link to Puzzle Wiki results](https://www.puzzles.wiki/wiki/1st_Bravo_Awards).
