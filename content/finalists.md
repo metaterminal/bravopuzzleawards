@@ -134,7 +134,14 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 6 | [Quandle (MITMH23)](https://puzzles.mit.edu/2023/puzzlefactory.place/office/quandle) | Alex Irpan |
 | 7 | [The Lernaean Hydra (MSPH23)](https://puzzle.university/puzzle/lernaeanhydra.html) | Justin Melvin |
 
-FIXME Non-English
+| N | Best Puzzle in a non-English Language | Authors |
+|---|---|---|
+| 1 | [Book of Fixed Stars (MITMH23)](https://puzzles.mit.edu/2023/puzzlefactory.place/puzzles/book-of-fixed-stars) | Justin Yokota, Lumia Neyo, Mona Wang |
+| 2 | [万古大魔法书 (P&KU2)](https://pnku2.pkupuzzle.art/#/game/miyu/prob_09) | 北京大学推理协 |
+| 3 | [提词卡 (CCBC13)](https://puzzle.cipherpuzzles.com/detail/4) | simplicissimus |
+| 4 | [无字天书 (CCBC13)](https://puzzle.cipherpuzzles.com/detail/17) | simplicissimus |
+| 5 | [爱慕猫体邻国斯必克二 (P&KU2)](https://pnku2.pkupuzzle.art/#/game/miyue/summer_10) | 北京大学推理协 |
+| 6 | [神奇宝贝在哪里 (CCBC13)](https://puzzle.cipherpuzzles.com/detail/18) | simplicissimus |
 
 | O | Best Puzzle Which Doesn't Fit Another Category On This List | Authors |
 |---|---|---|
