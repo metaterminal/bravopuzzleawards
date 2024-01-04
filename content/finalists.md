@@ -13,7 +13,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | A | Small Hunt of the Year | Authors |
 |---|---|---|
 | 1 | [CMU Spring Hunt 23 - Prehistory](https://puzzlehunt.club.cc.cmu.edu/hunt/22/) | Puzzle Hunt CMU |
-| 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen, Deusovi, Stratton Vakirtzis |
+| 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen, Deusovi, Stratton Vakirtzis, Anthony Hoover |
 | 3 | [First Day on the Job](https://cutemagestower.com/first-day/) | Jen McTeague |
 | 4 | [Grand Hunt Digital 23](https://web.archive.org/web/20230928001609/https://grandhuntdigital.com/puzzles) | /r/ConstructedAdventures |
 | 5 | [P.I. Hunt 9 - R.T.3 SEARCH](https://jacoblance.wordpress.com/2023/03/14/r-t-3-search/) | Jack Lance |
@@ -65,7 +65,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | G | Most Innovative Structure | Authors |
 |---|---|---|
 | 1 | [CCBC13 - Cipher & Code Breaking Competition 13](https://puzzle.cipherpuzzles.com/main) | simplicissimus |
-| 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen, Deusovi, Stratton Vakirtzis |
+| 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen, Deusovi, Stratton Vakirtzis, Anthony Hoover |
 | 3 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCardCaptors](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
 | 4 | [MITMH23 - MIT Mystery Hunt 23 - Puzzle Factory](https://puzzles.mit.edu/2023/) | teammate |
 | 5 | [P.I. Hunt 9 - R.T.3 SEARCH](https://jacoblance.wordpress.com/2023/03/14/r-t-3-search/) | Jack Lance |
@@ -102,7 +102,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 4 | [Miss Yu (GPH23)](https://2023.galacticpuzzlehunt.com/game/prep/miss_yu) | Amon Ge |
 | 5 | [Moonick (GPH23)](https://2023.galacticpuzzlehunt.com/game/prep/moonick_1) | Yannick Yao |
 | 6 | [Tinder (CMUS23 Prehistory)](https://puzzlehunt.club.cc.cmu.edu/puzzle/22027/) | Kevin Zhou (Kaz), Farid Khuri-Makdisi, Summit Wei |
-| 7 | [World's Smallest Logic Puzzles (MIT Mystery Hunt 23 - Puzzle Factory)](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/worlds-smallest-logic-puzzles) | Alex Gotsis, Alex Pei, and Ivan Wang |
+| 7 | [World's Smallest Logic Puzzles (MITMH23)](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/worlds-smallest-logic-puzzles) | Alex Gotsis, Alex Pei, and Ivan Wang |
 
 | K | Best Twist on a Classic Style | Authors |
 |---|---|---|
@@ -213,7 +213,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 4 | [List of Puzzlehunts](https://www.puzzlehunt.net/list) - A nearly exhaustive list of puzzlehunts (with links). | Brian Chen (betaveros) |
 | 5 | [Puzzle Wiki](https://www.puzzles.wiki/wiki/Main_Page) - A wiki with round the year updates about everything related to puzzlehunts. | Various |
 | 6 | [Puzzle.js](https://tabascq.github.io/PuzzleJS/) - A tool to make and embed simple interactive puzzles in HTML pages. | Kenny Young (tabascq) |
-| 7 | [TPH-Site](https://github.com/teammatehunt/tph-site), [Spoilr](https://github.com/teammatehunt/spoilr-teammate) and [Puzzup](https://github.com/teammatehunt/puzzup) - Infrastructure for hosting puzzlehunt websites, handling hunt management and editing/testing puzzles. | teammate, ✈✈✈ Galactic Trendsetters ✈✈✈, Palindrome |
+| 7 | [TPH-Site](https://github.com/teammatehunt/tph-site), [Spoilr](https://github.com/teammatehunt/spoilr-teammate) and [Puzzup](https://github.com/teammatehunt/puzzup) - Infrastructure for hosting puzzlehunt websites, handling hunt management and editing/testing puzzles. Based on earlier infrastructure by ✈✈✈ Galactic Trendsetters ✈✈✈ and Palindrome. | teammate |
 | 8 | [What's That Flat?](https://puzzlers.wtf/) - An NPL Flats guide. | David Millar |
 
 | V | Best Puzzle-Based Media | Authors |
@@ -238,7 +238,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 3 | LeavingLeaves | [For creating puzz.link assistance user script for logic puzzle solving](https://greasyfork.org/en/scripts/477117-puzz-link-assistance) |
 | 4 | Lennard Sprong (X_Sheep) | [For maintaining  puzz.link website and ongoing technical contributions to the logic puzzle community.](https://puzz.link/) |
 | 5 | Pedro | [For maintaining Pedro's Works, a website with support for solving many logic puzzle genres.](https://pedros.works/index.html) |
-| 6 | Swaroop Guggilam and Deb Mohanty | [For creating Penpa, LMI and LMI Expo, websites for curating, publishing and solving logic puzzles.](https://logicmastersindia.com/expo/) |
+| 6 | Swaroop Guggilam and Deb Mohanty | [For reinventing Penpa+, and creating LMI and LMI Expo, websites for curating, publishing and solving logic puzzles.](https://logicmastersindia.com/expo/) |
 | 7 | Tom Snyder | [For creating Grandmaster Puzzles, a community with thousands of logic puzzles over the years.](https://www.gmpuzzles.com/blog/about-thomas-snyder/) |
 | 8 | Will Shortz | [For curating New York Times crosswords for decades.](https://en.wikipedia.org/wiki/Will_Shortz) |
 
