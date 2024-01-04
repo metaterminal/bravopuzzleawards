@@ -248,4 +248,4 @@ Due to exceptional circumstances, the Lifetime Achievement Award will be awarded
 
 <p id="footnote-1"><i>(To access the QR Code Sequence, click the link, press L, then type in 11111111111111111111111011111111111<br>111111111111111111111111111111111101111101011101010111111111111111111111111111110111111111111111011. The QR Code Sequence is the set of 6 dots arranged vertically in the bottom left.)</i></p>
 
-<p id="footnote-2"><i>(To access the Final Keypad Puzzle, click the link, press L, then type in 11111111111111111111111011111111111<br>111111111111111111111111111111111101111101011101010111111111111111111111111111110111111111111111011. The QR Code Sequence is the rightmost puzzle node.)</i></p>
+<p id="footnote-2"><i>(To access the Final Keypad, click the link, press L, then type in 11111111111111111111111011111111111<br>111111111111111111111111111111111101111101011101010111111111111111111111111111110111111111111111011. The QR Code Sequence is the rightmost puzzle node.)</i></p>
