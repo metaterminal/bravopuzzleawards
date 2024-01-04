@@ -50,7 +50,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 2 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCardCaptors](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
 | 3 | [Huntinality 3 - Hunts Upon a Time](https://www.huntinality.com/) | Cardinality |
 | 4 | [MITMH23 - MIT Mystery Hunt 23 - Puzzle Factory](https://puzzles.mit.edu/2023/) | teammate |
-| 5 | [MSPH23 - Microsoft Puzzle Hunt 23 - Puzzle University](https://puzzle.university/) | - |
+| 5 | [MSPH23 - Microsoft Puzzle Hunt 23 - Puzzle University](https://puzzle.university/) | Matt Du, Dana Young |
 
 | F | Best Narrative | Authors |
 |---|---|---|
@@ -161,7 +161,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 1 | [Asteroid Database Round - Cipher & Code Breaking Competition 13 (CCBC13)](https://ccbc13.cipherpuzzles.com/) | simplicissimus |
 | 2 | [CMU Orientation Hunt 2023](https://puzzlehunt.club.cc.cmu.edu/hunt/23/) | Puzzle Hunt CMU |
 | 3 | [Easy Half - The 2023 DUAL Puzzle Hunt (Edric 23 DUAL)](https://happinessboard.com/2023dualpuzzlehunt/puzzles.html) | Edric Haleen, Deusovi |
-| 4 | [Placement Test Round - Microsoft Puzzle Hunt 23 (MSPH23)](https://puzzle.university/round/placement-test.html) | - |
+| 4 | [Placement Test Round - Microsoft Puzzle Hunt 23 (MSPH23)](https://puzzle.university/round/placement-test.html) | Dana Young, Derek Young |
 | 5 | [Round 1 - CMU Fall Hunt 23 (CMUF23 - Magic)](https://puzzlehunt.club.cc.cmu.edu/hunt/24/) | Puzzle Hunt CMU |
 | 6 | [Round 1 - Grand Hunt Digital 23](https://web.archive.org/web/20230928001609/https://grandhuntdigital.com/puzzles) | /r/ConstructedAdventures |
 
@@ -239,7 +239,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 4 | Lennard Sprong (X_Sheep) | [For maintaining  puzz.link website and ongoing technical contributions to the logic puzzle community.](https://puzz.link/) |
 | 5 | Pedro | [For maintaining Pedro's Works, a website with support for solving many logic puzzle genres.](https://pedros.works/index.html) |
 | 6 | Swaroop Guggilam and Deb Mohanty | [For reinventing Penpa+, and creating LMI and LMI Expo, websites for curating, publishing and solving logic puzzles.](https://logicmastersindia.com/expo/) |
-| 7 | Tom Snyder | [For creating Grandmaster Puzzles, a community with thousands of logic puzzles over the years.](https://www.gmpuzzles.com/blog/about-thomas-snyder/) |
+| 7 | Thomas Snyder | [For creating Grandmaster Puzzles, a community with thousands of logic puzzles over the years.](https://www.gmpuzzles.com/blog/about-thomas-snyder/) |
 | 8 | Will Shortz | [For curating New York Times crosswords for decades.](https://en.wikipedia.org/wiki/Will_Shortz) |
 
 Due to exceptional circumstances, the Lifetime Achievement Award will be awarded by judges instead of voted on by the community.
