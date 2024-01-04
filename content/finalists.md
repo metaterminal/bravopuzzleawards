@@ -23,7 +23,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 |---|---|---|
 | 1 | [BAPHL 22 - Boston Area Puzzle Hunt League 22 - Bogus Academic Professors Having Lunch](http://www.baphl.boston/22/) | - |
 | 2 | [BPH23 - Brown Puzzlehunt 23 -  Blueno Resurrection Society](https://www.brownpuzzlehunt.com/) | Brown Puzzle Club |
-| 3 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCosmiCave](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
+| 3 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCardCaptors](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
 | 4 | [Halpin 23 - Mark Halpin's Labor Day Extravaganza 23 - Two on the Isle](http://www.markhalpin.com/puzzles/1ALOHA/aloha.html) | Mark Halpin |
 | 5 | [Huntinality 3 - Hunts Upon a Time](https://www.huntinality.com/) | Cardinality |
 | 6 | [Shardhunt - The Library of Babel](https://shardhunt.com/) | 17th Shard |
@@ -38,7 +38,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 
 | D | Best Direction | Authors |
 |---|---|---|
-| 1 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCosmiCave](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
+| 1 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCardCaptors](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
 | 2 | [Huntinality 3 - Hunts Upon a Time](https://www.huntinality.com/) | Cardinality |
 | 3 | [MITMH23 - MIT Mystery Hunt 23 - Puzzle Factory](https://puzzle.university/) | teammate |
 | 4 | [P.I. Hunt 9 - R.T.3 SEARCH](https://jacoblance.wordpress.com/2023/03/14/r-t-3-search/) | Jack Lance |
@@ -47,7 +47,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | E | Best Visual Design | Authors |
 |---|---|---|
 | 1 | [BPH23 - Brown Puzzlehunt 23 -  Blueno Resurrection Society](https://www.brownpuzzlehunt.com/) | Brown Puzzle Club |
-| 2 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCosmiCave](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
+| 2 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCardCaptors](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
 | 3 | [Huntinality 3 - Hunts Upon a Time](https://www.huntinality.com/) | Cardinality |
 | 4 | [MITMH23 - MIT Mystery Hunt 23 - Puzzle Factory](https://puzzles.mit.edu/2023/) | teammate |
 | 5 | [MSPH23 - Microsoft Puzzle Hunt 23 - Puzzle University](https://puzzle.university/) | - |
@@ -55,7 +55,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | F | Best Narrative | Authors |
 |---|---|---|
 | 1 | [CMU Spring Hunt 23 - Prehistory](https://puzzlehunt.club.cc.cmu.edu/hunt/22/) | Puzzle Hunt CMU |
-| 2 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCosmiCave](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
+| 2 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCardCaptors](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
 | 3 | [Huntinality 3 - Hunts Upon a Time](https://www.huntinality.com/) | Cardinality |
 | 4 | [MITMH23 - MIT Mystery Hunt 23 - Puzzle Factory](https://puzzles.mit.edu/2023/) | teammate |
 | 5 | [P.I. Hunt 9 - R.T.3 SEARCH](https://jacoblance.wordpress.com/2023/03/14/r-t-3-search/) | Jack Lance |
@@ -66,7 +66,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 |---|---|---|
 | 1 | [CCBC13 - Cipher & Code Breaking Competition 13](https://puzzle.cipherpuzzles.com/main) | simplicissimus |
 | 2 | [Edric 23 - The 2023 DUAL Puzzle Hunt](http://happinessboard.com/2023dualpuzzlehunt/index.html) | Edric Haleen, Deusovi, Stratton Vakirtzis |
-| 3 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCosmiCave](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
+| 3 | [GPH23 - Galactic Puzzle Hunt 23 - GalactiCardCaptors](https://2023.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
 | 4 | [MITMH23 - MIT Mystery Hunt 23 - Puzzle Factory](https://puzzles.mit.edu/2023/) | teammate |
 | 5 | [P.I. Hunt 9 - R.T.3 SEARCH](https://jacoblance.wordpress.com/2023/03/14/r-t-3-search/) | Jack Lance |
 | 6 | [Shardhunt - The Library of Babel](https://shardhunt.com/) | 17th Shard |
@@ -213,7 +213,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 4 | [List of Puzzlehunts](https://www.puzzlehunt.net/list) - A nearly exhaustive list of puzzlehunts (with links). | Brian Chen (betaveros) |
 | 5 | [Puzzle Wiki](https://www.puzzles.wiki/wiki/Main_Page) - A wiki with round the year updates about everything related to puzzlehunts. | Various |
 | 6 | [Puzzle.js](https://tabascq.github.io/PuzzleJS/) - A tool to make and embed simple interactive puzzles in HTML pages. | Kenny Young (tabascq) |
-| 7 | [TPH-Site](https://github.com/teammatehunt/tph-site), [Spoilr](https://github.com/teammatehunt/spoilr-teammate) and [Puzzup](https://github.com/teammatehunt/puzzup) - Infrastructure for hosting puzzlehunt websites, handling hunt management and editing/testing puzzles. | teammate |
+| 7 | [TPH-Site](https://github.com/teammatehunt/tph-site), [Spoilr](https://github.com/teammatehunt/spoilr-teammate) and [Puzzup](https://github.com/teammatehunt/puzzup) - Infrastructure for hosting puzzlehunt websites, handling hunt management and editing/testing puzzles. | teammate, ✈✈✈ Galactic Trendsetters ✈✈✈, Palindrome |
 | 8 | [What's That Flat?](https://puzzlers.wtf/) - An NPL Flats guide. | David Millar |
 
 | V | Best Puzzle-Based Media | Authors |
