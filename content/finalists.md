@@ -5,7 +5,7 @@ template = "finalists.html"
 
 Congratulations to the finalists of the Third Annual Bravo Awards!
 
-Additionally, if you'd like to view every puzzle and hunt was nominated at least once (but may not have necessarily 
+Additionally, if you'd like to view every puzzle and hunt which was nominated at least once (but may not have necessarily 
 been selected as a finalist), you can view the full list of <a href="https://docs.google.com/spreadsheets/d/1AGR6tAAm-SvV-bBNeGKY7Q7Llx6u3iuvd5G9LhopjE4/edit#gid=0">200+ puzzles and 20+ hunts here</a>.
 
 ### Hunts
@@ -35,7 +35,6 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 3 | [MITMH23 - MIT Mystery Hunt 23 - Puzzle Factory](https://puzzles.mit.edu/2023/) | teammate |
 | 4 | [MSPH23 - Microsoft Puzzle Hunt 23 - Puzzle University](https://puzzle.university/) | - |
 | 5 | [P&KU2 - Puzzle and Key Universe 2](https://pnku2.pkupuzzle.art/#) | 北京大学推理协 |
-| 6 | [Shardhunt - The Library of Babel](https://shardhunt.com/) | 17th Shard |
 
 | D | Best Direction | Authors |
 |---|---|---|
