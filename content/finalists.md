@@ -87,7 +87,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | I | Best Word Puzzle | Authors |
 |---|---|---|
 | 1 | [Deconstructed Crossword (ABCDEFG)](https://puzzles.mit.edu/2023/abcde.puzzlefactory.place/puzzles/deconstructed-crossword) | Harrison Ho, Herman Chau, and Ivan Wang |
-| 2 | [Haloanaka (Halpin 23)](http://www.markhalpin.com/puzzles/1ALOHA/alohabzb3.pdff) | Mark Halpin |
+| 2 | [Haloanaka (Halpin 23)](http://www.markhalpin.com/puzzles/1ALOHA/alohabzb3.pdf) | Mark Halpin |
 | 3 | [Inscription (MITMH23)](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/inscription) | Asher Walkover |
 | 4 | [Long Cube (Huntinality 3)](https://www.huntinality.com/puzzles/long_cube) | Bryce Cai |
 | 5 | [Spelling Bee (GPH23)](https://2023.galacticpuzzlehunt.com/game/prep/spelling_bee) | Josh Alman, Jenna Himawan, and Nathan Pinsker |
