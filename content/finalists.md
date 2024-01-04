@@ -102,7 +102,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 4 | [Miss Yu (GPH23)](https://2023.galacticpuzzlehunt.com/game/prep/miss_yu) | Amon Ge |
 | 5 | [Moonick (GPH23)](https://2023.galacticpuzzlehunt.com/game/prep/moonick_1) | Yannick Yao |
 | 6 | [Tinder (CMUS23 Prehistory)](https://puzzlehunt.club.cc.cmu.edu/puzzle/22027/) | Kevin Zhou (Kaz), Farid Khuri-Makdisi, Summit Wei |
-| 7 | [World's Smallest Logic Puzzles](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/worlds-smallest-logic-puzzles) | Alex Gotsis, Alex Pei, and Ivan Wang |
+| 7 | [World's Smallest Logic Puzzles (MIT Mystery Hunt 23 - Puzzle Factory)](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/worlds-smallest-logic-puzzles) | Alex Gotsis, Alex Pei, and Ivan Wang |
 
 | K | Best Twist on a Classic Style | Authors |
 |---|---|---|
