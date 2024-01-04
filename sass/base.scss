@@ -47,7 +47,25 @@ body {
 th, td {
 	padding: 5px 10px 0px 10px;
 	text-align: left;
- }
+}
+
+table {
+	width: 100%;
+	margin: 20px;
+}
+
+td:nth-child(1) {
+	width: 5%;
+}
+
+td:nth-child(2) {
+	width: 50%;
+}
+
+td:nth-child(3) {
+	width: 55%;
+}
+
 
 p {
   margin-bottom: 1rem;
