@@ -214,7 +214,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 5 | [Puzzle Wiki](https://www.puzzles.wiki/wiki/Main_Page) - A wiki with round the year updates about everything related to puzzlehunts. | Various |
 | 6 | [Puzzle.js](https://tabascq.github.io/PuzzleJS/) - A tool to make and embed simple interactive puzzles in HTML pages. | Kenny Young (tabascq) |
 | 7 | [TPH-Site](https://github.com/teammatehunt/tph-site), [Spoilr](https://github.com/teammatehunt/spoilr-teammate) and [Puzzup](https://github.com/teammatehunt/puzzup) - Infrastructure for hosting puzzlehunt websites, handling hunt management and editing/testing puzzles. Based on earlier infrastructure by ✈✈✈ Galactic Trendsetters ✈✈✈ and Palindrome. | teammate |
-| 8 | [What's That Flat?](https://puzzlers.wtf/) - An NPL Flats guide. | David Millar |
+| 8 | [What's That Flat?](https://puzzlers.wtf/) - An NPL Flats guide. Based on earlier work by Hudu, Brillig, Treesong, and Sibyl. | David Millar |
 
 | V | Best Puzzle-Based Media | Authors |
 |---|---|---|

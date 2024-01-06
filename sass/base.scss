@@ -17,6 +17,38 @@ tml {
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
 
+@media (max-width:600px)  { 
+
+  table {
+      margin: 20px auto;
+  }
+  
+  tbody tr {
+      border-top: 1pt solid black;
+  }
+  
+  tr {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+  }
+  
+  td:nth-child(1), th:nth-child(1) {
+      width: 1em;
+  }
+  
+  td:nth-child(2), th:nth-child(2) {
+      width: 90%;
+      flex: 1;
+  }
+  
+  td:nth-child(3), th:nth-child(3) {
+      width: 95%;
+      margin-left: 2em;
+  }
+  
+}
+
 body > nav {
   background-color: #f4eacd;
   color: black;
