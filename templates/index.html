@@ -21,20 +21,22 @@
   <div class="content" style="margin-top: 10px;">
   <p>The Bravo Awards are a celebration of the hunts, puzzles, and people from the puzzle hunt community.</p>
   
-  <p>The Third Annual Bravo Awards, which looks back over 2023, is currently in its finalist stage. If you'd 
-    like to vote on which finalists should receive awards for their categories, you can do so here:</p>
+  <p>The Third Annual Bravo Awards, which looks back over 2023, has concluded. You can view the awards ceremony below:</p>
 
-  <div class="width-hack">
-  <a href="https://forms.gle/yBCyYuaFX1e4uyZw9">
-    <div class="vote-button">
-      <p style="text-align: center;">Vote now!</p>
-    </div>
-  </a>
-  </div>
+  <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+  <div id="twitch" style="text-align: center; padding-top: 20px; padding-bottom: 20px;"></div>
+  <script type="text/javascript">
+    var options = {
+      width: 854,
+      height: 480,
+      video: "2028985756",
+      // only needed if your site is also embedded on embed.example.com and othersite.example.com
+      parent: ["embed.example.com", "othersite.example.com"]
+    };
+    var player = new Twitch.Player("twitch", options);
+    player.setVolume(0.5);
+  </script>
 
-  <p>The above voting form will close on <b>Tuesday, January 9th, 11:59PM Eastern Time</b>.
-    The awards will then be announced in a <a href="https://www.twitch.tv/bravoawards">Twitch livestream</a> on 
-    <b>Wednesday, January 10th, 9PM Eastern Time</b>.</p>
 
   <p>The Third Annual Bravo Awards were organised by Thomas Gordon (MetaTerminal), Eugene C, and Soni (TalesFromTim), 
     with organizational help from Justin Ladia and Liam Thomas (junkmail), and web development help from David Millar.</p>
