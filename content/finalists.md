@@ -3,7 +3,7 @@ title = "This Year's Finalists"
 template = "finalists.html"
 +++
 
-Congratulations to the finalists of the Third Annual Bravo Awards! The winners of each category are presented in bold. Where applicable, the runners-up are italicised.
+Congratulations to the finalists of the Third Annual Bravo Awards! The winners of each category are presented in **bold**. Where applicable, the runners-up are *italicised*.
 
 Additionally, if you'd like to view every puzzle and hunt which was nominated at least once (but may not have necessarily 
 been selected as a finalist), you can view the full list of <a href="https://docs.google.com/spreadsheets/d/1AGR6tAAm-SvV-bBNeGKY7Q7Llx6u3iuvd5G9LhopjE4/edit#gid=0">200+ puzzles and 20+ hunts here</a>.
