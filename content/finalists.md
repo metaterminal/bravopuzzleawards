@@ -3,7 +3,7 @@ title = "This Year's Finalists"
 template = "finalists.html"
 +++
 
-Congratulations to the finalists of the Third Annual Bravo Awards! The winners of each category are presented in **bold**. Where applicable, the runners-up are *italicised*.
+Congratulations to the finalists of the Third Annual Bravo Awards! The winners of each category are presented in <b>**bold**</b>. Where applicable, the runners-up are *italicised*.
 
 Additionally, if you'd like to view every puzzle and hunt which was nominated at least once (but may not have necessarily 
 been selected as a finalist), you can view the full list of <a href="https://docs.google.com/spreadsheets/d/1AGR6tAAm-SvV-bBNeGKY7Q7Llx6u3iuvd5G9LhopjE4/edit#gid=0">200+ puzzles and 20+ hunts here</a>.
@@ -227,7 +227,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | 7 | **[**"Writing MIT Mystery Hunt 2023" (Blog)**](https://www.alexirpan.com/2023/04/21/mh-2023.html)** | Alex Irpan (Titandrake) |
 | 8 | ["RockmanEX3" (Youtube)](https://www.youtube.com/playlist?list=PLXzh1l5n5xLWMqPUyzxbKVje9jcFCIJWL) |  |
 | 9 | ["Christopher Night" (Youtube)](https://www.youtube.com/@ChristopherNight/videos) |  |
-| 10 | ["Cypher House" (Youtube)](https://www.youtube.com/c/CypherHouse/videos) |  |
+| 10 | **[**"Cypher House" (Youtube)**](https://www.youtube.com/c/CypherHouse/videos)** |  |
 | 11 | ["pzl_slvr" (Youtube)](https://youtube.com/@pzl_slvr6407?si=mACBYGjtmEs2YV9D) |  |
 | 12 | ["QuizzyDan" (Twitch)](https://www.twitch.tv/quizzydan) |  |
 
@@ -246,15 +246,15 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 
 | X | Special Acknowledgement |  |
 |---|---|---|
-| 1 | **teammate** | For significantly revising MITMH23 after the event had started for the good of the hunt, including cutting an entire round. |
+|   | **teammate** | For significantly revising MITMH23 after the event had started for the good of the hunt, including cutting an entire round. |
 
 | Y | Special Acknowledgement |  |
 |---|---|---|
-| 1 | **Dan Egnor; Brent Holman, Jeff Wallace, and Curtis Chen** | For maintaining the [Puzzlehunt Calendar](https://puzzlehuntcalendar.com/) and the Puzzlehunt Planning team, respectively.|
+|   | **Dan Egnor; Brent Holman, Jeff Wallace, and Curtis Chen** | For maintaining the [Puzzlehunt Calendar](https://puzzlehuntcalendar.com/) and the Puzzlehunt Planning team, respectively.|
 
 | Z | Lifetime Achievement Award |  |
 |---|---|---|
-| 1 | **Jack Lance** | For a lifetime of exceptional creativity, insight, and kindness; and a vastly creative body of work that deserves to stand forever as a testament to his existence. You can view his work [here](https://jacoblance.wordpress.com/) and [here](https://jacklance.github.io/). JoeltheFox has linked some additional resources for viewing Jack's work [here](https://joelthefox.github.io/2023-05-04-Jack-Lance/). |
+|   | **Jack Lance** | For a lifetime of exceptional virtuosity, insight, and kindness; and a vastly creative body of work that shall stand forever as a testament to his existence. You can view his work [here](https://jacoblance.wordpress.com/) and [here](https://jacklance.github.io/). JoeltheFox has linked some additional resources for viewing Jack's work [here](https://joelthefox.github.io/2023-05-04-Jack-Lance/). |
 
 
 ***
