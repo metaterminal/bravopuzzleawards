@@ -5,6 +5,12 @@ sort_by = "date"
 page_template = "archive-page.html"
 +++
 
+# Awards From Previous Years
+
+### [The Third Annual Bravo Awards](2024)
+
+[Link to Puzzle Wiki results](https://www.puzzles.wiki/wiki/3rd_Bravo_Awards).
+
 ### The Second Annual Bravo Awards 
 
 [Link to Puzzle Wiki results](https://www.puzzles.wiki/wiki/2nd_Bravo_Awards).
