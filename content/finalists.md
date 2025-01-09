@@ -9,7 +9,7 @@ Congratulations to the finalists of the Fourth Annual Bravo Awards!
 
 You can vote for which puzzles, rounds, and people should win awards with <a href="https://forms.gle/HtMCKXVp5XLxeKhN8">this Google form</a>.
 
-The voting closes on <u>January 12, 2025 at 6:59 PM Eastern Time</u>. There will then be a livestream to announce the winners on <u>January 13, 2025 at 8:00 PM Eastern Time</u>.
+The voting closes on <u>January 12, 2025 at 11:59 PM UTC</u>. There will then be a livestream to announce the winners on <u>January 14, 2025 at 1:00 AM UTC</u>.
 
 ### Hunts
 
