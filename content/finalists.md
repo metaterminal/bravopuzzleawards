@@ -11,6 +11,8 @@ You can vote for which puzzles, rounds, and people should win awards with <a hre
 
 The voting closes on <u>January 12, 2025 at 11:59 PM UTC</u>. There will then be a livestream to announce the winners on <u>January 14, 2025 at 1:00 AM UTC</u>.
 
+If you want to see all puzzles and hunts that were nominated at least once, check out <a href="https://docs.google.com/spreadsheets/d/1jWkpUbWhi8dpGC7kTSkEiE0V8getkZuPw4Ksi5KhJaw/edit?gid=1498330514#gid=1498330514">this sheet</a>.
+
 ### Hunts
 
 | A | Small Hunt of the Year | Authors |
