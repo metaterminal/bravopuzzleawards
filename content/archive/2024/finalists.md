@@ -221,7 +221,7 @@ been selected as a finalist), you can view the full list of <a href="https://doc
 | V | Best Puzzle-Based Media | Authors |
 |---|---|---|
 | 1 | ["A looksy backsy on Huntinality 3" (Blog)](https://pichusuperlover.wordpress.com/2023/12/04/a-looksy-backsy-on-huntinality-3/) | Pichusuperlover |
-| 2 | ["Accessibility, Americanisms, and the location-attendance question" (Blog)](https://metaterminal.fyi/blog/bph-2/) | Thomas Gordon (MetaTerminal) |
+| 2 | ["Accessibility, Americanisms, and the location-attendance question" (Blog)](https://metaterminal.fyi/blog/bph-2/) | Thomas Gordon (metaterminal) |
 | 3 | ["Cute Mage's Tower" (Website/Blogs)](http://cutemagestower.com) | Jen McTeague (Cute Mage) |
 | 4 | ["mystery hunt write-up" (Blog)](https://iam.lumia.gay/) | Lumia Neyo |
 | 5 | ["Puzzlvaria" (Website/Blogs)](https://puzzlvaria.wordpress.com/) | Dan Katz |
