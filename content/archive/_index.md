@@ -7,7 +7,11 @@ page_template = "archive-page.html"
 
 # Awards From Previous Years
 
-### [The Third Annual Bravo Awards](2024)
+### [The Fourth Annual Bravo Awards](2024)
+
+[Link to Puzzle Wiki results](https://www.puzzles.wiki/wiki/4th_Bravo_Awards).
+
+### [The Third Annual Bravo Awards](2023)
 
 [Link to Puzzle Wiki results](https://www.puzzles.wiki/wiki/3rd_Bravo_Awards).
 
