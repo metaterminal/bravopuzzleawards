@@ -5,7 +5,7 @@ template = "finalists.html"
 
 # 2024 Finalists
 
-Congratulations to the finalists of the Fourth Annual Bravo Awards! The winners of each category are presented in <b>**bold**</b>. Where applicable, the runners-up are *italicised*.
+Congratulations to the finalists of the Fourth Annual Bravo Awards! The winners of each category are presented in <b>**bold**</b>. Where applicable, the special mentions are *italicised*.
 
 If you want to see all puzzles and hunts that were nominated at least once, check out <a href="https://docs.google.com/spreadsheets/d/1jWkpUbWhi8dpGC7kTSkEiE0V8getkZuPw4Ksi5KhJaw/edit?gid=1498330514#gid=1498330514">this sheet</a>.
 
