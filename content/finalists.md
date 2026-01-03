@@ -58,7 +58,7 @@ If you want to see all puzzles and hunts that were nominated at least once, chec
 | 3 | [Beachfront Property -- Advent Hunt 2025](https://2025.adventhunt.com/puzzles/beachfront-property/) | Eshan Mitra and Zach Zagorski |
 | 4 | [Penchant Meta Sequence -- Penchant Puzzlehunt](https://penchantpuzzlehunt.com/puzzle) | Thomas Gordon, noneuclidean |
 | 5 | [Plot a Course -- Teammate Hunt 2025](https://2025.teammatehunt.com/puzzles/plot-a-course) | Jacqui Fashimpaur, Justin Yokota, Lumia Neyo, and Olga Vinogradova |
-| 6 | [Side Quest -- Advent Hunt 2025](fixme) FIXME LINK | Alex Walker (with help from Sara Walker and Zach Barnett) |
+| 6 | [Side Quest -- Advent Hunt 2025](fixme) LINK TO BE ADDED SOON | Alex Walker (with help from Sara Walker and Zach Barnett) |
 | 7 | [Solve a Puzzlehunt -- Vertex Hunt](https://www.vertexhunt.com/puzzle/solve-a-puzzlehunt) | Christian |
 | 8 | [The Shell Game -- MIT Mystery Hunt 2025](https://puzzles.mit.edu/2025/hunt/puzzles/the_shell_game) | David Greenspan, James Douberley, Li-Mei Lim, and Leland Aldridge |
 | 9 | [The Web -- Galactic Puzzle Hunt 2025](https://2025.galacticpuzzlehunt.com/puzzle/the_web) | Wayne Zhao, CJ Quines, and Charles Tam |
@@ -68,7 +68,7 @@ If you want to see all puzzles and hunts that were nominated at least once, chec
 | 1 | [A Cryptic Has Arrived! -- Galactic Puzzle Hunt 2025](https://2025.galacticpuzzlehunt.com/round/the_crater) | Dai Yang |
 | 2 | [Answering Machine v9 -- Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/puzzle/answering-machine) | Level 51 | 
 | 3 | [Double Crossed - Advent Hunt 2025](https://2025.adventhunt.com/puzzles/double-crossed/) | Initial Concept: Eshan Mitra; Construction: Alex Walker, Sara Walker |
-| 4 | [Fix Word Processor -- Microsoft Puzzlehunt](https://puzzlehunt.azurewebsites.net/ph24/play/Submissions/7434) | FIXME authors |
+| 4 | [Fix Word Processor -- Microsoft Puzzlehunt](https://puzzlehunt.azurewebsites.net/ph24/play/Submissions/7434) | AUTHORS TO BE ADDED SOON |
 | 5 | [The Arcade -- Advent Hunt 2025](https://2025.adventhunt.com/puzzles/the-arcade/) | Chris Yu, Eshan Mitra, Jay Qi, Zach Zagorski |
 | 6 | [Turtles All The Way Down -- Galactic Puzzle Hunt 2025](https://2025.galacticpuzzlehunt.com/round/aisle_of_crosswords) | Chris Jones |
 
@@ -109,7 +109,7 @@ If you want to see all puzzles and hunts that were nominated at least once, chec
 | K | Best Puzzle in a Non-English Language | Authors |
 |---|---|---|
 | 1 | [古诗窃贼 -- Golden Puzzle Hunt](https://goldenph.art/puzzle?key=sort_03) | skyline, selenium |
-| 2 | [浮想联翩 - CCBC 16](fixme) FIXME LINK | FIXME authors |
+| 2 | [浮想联翩 - CCBC 16](fixme) LINK TO BE ADDED SOON | AUTHORS TO BE ADDED SOON |
 | 3 | [你说话带括号 -- CCBC 16](https://brackets.ccbcarchive.com/) | 落葉子(Leaving Leaves) |
 | 4 | [三字谜 -- CCBC 16](https://triddles.ccbcarchive.com/) | 落葉子 (Leaving Leaves) |
 | 5 | [Lost in Translation -- LN Hunt](https://ln-hunt.com/puzzle/lost-in-translation) | Rio Futaba |
