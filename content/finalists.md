@@ -109,7 +109,7 @@ If you want to see all puzzles and hunts that were nominated at least once, chec
 | K | Best Puzzle in a Non-English Language | Authors |
 |---|---|---|
 | 1 | [古诗窃贼 -- Golden Puzzle Hunt](https://goldenph.art/puzzle?key=sort_03) | skyline, selenium |
-| 2 | [浮想联翩 - CCBC 16](fixme) | FIXME authors |
+| 2 | [浮想联翩 - CCBC 16](fixme) FIXME LINK | FIXME authors |
 | 3 | [你说话带括号 -- CCBC 16](https://brackets.ccbcarchive.com/) | 落葉子(Leaving Leaves) |
 | 4 | [三字谜 -- CCBC 16](https://triddles.ccbcarchive.com/) | 落葉子 (Leaving Leaves) |
 | 5 | [Lost in Translation -- LN Hunt](https://ln-hunt.com/puzzle/lost-in-translation) | Rio Futaba |
