@@ -34,7 +34,7 @@ If you want to see all puzzles and hunts that were nominated at least once, chec
 | 1 | [Advent Hunt 2025 -- Penguin Pandemonium!](https://2025.adventhunt.com/) | Peppermint Herrings 🎏 |
 | 2 | [Brown Puzzlehunt 2025 -- Brown Puzzle Cinemas](https://2025.brownpuzzlehunt.com/) | Brown Puzzle Club |
 | 3 | [Galactic Puzzle Hunt 2025 -- Terraforming](https://2025.galacticpuzzlehunt.com/) | ✈✈✈ Galactic Trendsetters ✈✈✈ |
-| 4 | [MIT Mystery Hatch](https://www.mitmysteryhatch.com/) | The Providence Invest-egg-ations |
+| 4 | [MIT Mystery Hunt 2025 -- The Case of the Shadow Diamond](https://puzzles.mit.edu/2025/) | Death and Mayhem |
 | 5 | [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/) | Silph |
 | 6 | [Teammate Hunt 2025 -- Matt and Emma's Deep-Space Disaster](https://2025.teammatehunt.com/) | teammate |
 
