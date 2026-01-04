@@ -118,7 +118,7 @@ If you want to see all puzzles and hunts that were nominated at least once, chec
 |---|---|---|
 | 1 | [Ladders -- Penchant Puzzlehunt](https://penchantpuzzlehunt.com/puzzle/ladders) | noneuclidean |
 | 2 | [Motion Capture -- Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/puzzle/motion-capture) | Level 51 and lydian |
-| 3 | [Paint By Letters -- MIT Mystery Hatch](https://www.mitmysteryhatch.com/puzzle/tonic/paint-by-letters) | Zach Barnett, Eshan Mitra |
+| 3 | [Paint By Letters -- MIT Mystery Hatch](https://www.mitmysteryhatch.com/puzzle/tonic/paint-by-letters) | Eshan Mitra, Zach Barnett |
 | 4 | [Rereading -- Penchant Puzzlehunt](https://penchantpuzzlehunt.com/puzzle/rereading) | noneuclidean |
 | 5 | [Spacewalk Round -- Teammate Puzzlehunt](https://2025.teammatehunt.com/puzzles) | Ivan Wang, Katie Dunn, Patrick Xia, and Tracey Lin |
 | 6 | [Two Guards, Two Doors, a Boat, a River, and a Cabbage -- Brown Puzzlehunt](https://2025.brownpuzzlehunt.com/puzzle/two-guards-river) | Nate Chinman, Nicholas Cressman, Thomas Gordon, and Jack de Haan |
