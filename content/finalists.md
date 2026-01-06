@@ -58,7 +58,7 @@ If you want to see all puzzles and hunts that were nominated at least once, chec
 | 3 | [Beachfront Property -- Advent Hunt 2025](https://2025.adventhunt.com/puzzles/beachfront-property/) | Eshan Mitra and Zach Zagorski |
 | 4 | [Penchant Meta Sequence -- Penchant Puzzlehunt](https://penchantpuzzlehunt.com/puzzle) | Thomas Gordon, noneuclidean |
 | 5 | [Plot a Course -- Teammate Hunt 2025](https://2025.teammatehunt.com/puzzles/plot-a-course) | Jacqui Fashimpaur, Justin Yokota, Lumia Neyo, and Olga Vinogradova |
-| 6 | [Side Quest -- Advent Hunt 2025](fixme) LINK TO BE ADDED SOON | Alex Walker (with help from Sara Walker and Zach Barnett) |
+| 6 | [Side Quest -- Advent Hunt 2025](https://2025.adventhunt.com/puzzles/side-quest/) | Alex Walker (with help from Sara Walker and Zach Barnett) |
 | 7 | [Solve a Puzzlehunt -- Vertex Hunt](https://www.vertexhunt.com/puzzle/solve-a-puzzlehunt) | Christian |
 | 8 | [The Shell Game -- MIT Mystery Hunt 2025](https://puzzles.mit.edu/2025/hunt/puzzles/the_shell_game) | David Greenspan, James Douberley, Li-Mei Lim, and Leland Aldridge |
 | 9 | [The Web -- Galactic Puzzle Hunt 2025](https://2025.galacticpuzzlehunt.com/puzzle/the_web) | Wayne Zhao, CJ Quines, and Charles Tam |
