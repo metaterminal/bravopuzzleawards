@@ -76,7 +76,7 @@ If you want to see all puzzles and hunts that were nominated at least once, chec
 |---|---|---|
 | 1 | [Gas, Water, and Electricity -- Penchant Puzzlehunt](https://penchantpuzzlehunt.com/puzzle/gas-water-electricity) | Thomas Gordon |
 | 2 | [Grid Logic -- Galactic Puzzle Hunt 2025](https://2025.galacticpuzzlehunt.com/round/abandoned_site) | Yannick Yao |
-| 3 | [Ice Pack -- Advent Hunt 2025](https://2025.adventhunt.com/puzzles/ice-pack/) | Alex Walker |
+| 3 | [Ice Pack -- Advent Hunt 2025](https://2025.adventhunt.com/puzzles/ice-pack/) | Alex Walker, Eshan Mitra, Chris Yu |
 | 4 | [LITS -- Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/puzzle/lits) | lovemathboy |
 | 5 | [Subnivean Snake -- Advent Hunt 2025](https://2025.adventhunt.com/puzzles/subnivean-snake/) | Zach Barnett |
 | 6 | [Tetretronogronograri -- Teammate Hunt 2025](https://2025.teammatehunt.com/puzzles/tetretronogronograri) | Evan Chen and Olga Vinogradova |
